@@ -1,0 +1,1 @@
+alert("Arife Yılancıoğlu'nun internet sitesindesiniz.")
